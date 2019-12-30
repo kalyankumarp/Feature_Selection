@@ -1,0 +1,1 @@
+Kendall’s tau, a correlation measure for ordinal data; Kendall does assume that the categorical variable is ordinal.

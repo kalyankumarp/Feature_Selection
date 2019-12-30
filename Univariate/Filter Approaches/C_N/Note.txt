@@ -1,0 +1,3 @@
+you can use the same “Numerical Input, Categorical Output” methods (described above), but in reverse
+
+Kendall: Kendall’s tau, a correlation measure for ordinal data; Kendall does assume that the categorical variable is ordinal.
